@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Hello");
         System.out.println("change 1");
 		System.out.println("git changes add to eclipse");
+		System.out.println("git changes add to eclipse 2");
 	}
 
 }
